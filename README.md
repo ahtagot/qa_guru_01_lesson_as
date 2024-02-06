@@ -2,4 +2,4 @@
 
 First branch message
 
-Conflicted message one more time 
+Resolved conflict 
