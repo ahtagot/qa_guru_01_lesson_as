@@ -2,4 +2,4 @@
 
 First branch message
 
-Resolving conflict 
+Resolved conflict 
